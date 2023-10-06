@@ -1,0 +1,38 @@
+.paska {
+    font-size: 20px; 
+    color: black; 
+    transition: 2s; 
+    width: 150px;
+} 
+.paska:hover {
+    color: blue; 
+} 
+.nappi {
+    border-radius: 8px; 
+    font-size: 20px; 
+    color: black; 
+    background-color: purple; 
+    transition: 2s; 
+} 
+.nappi:hover {
+    background-color: blue; 
+    color: white; 
+}  
+.kaka {
+    color: black; 
+    font-size: 20px; 
+    transition: 2s; 
+    width: 150px;
+} 
+.kaka:hover {
+    color: blue;
+} 
+.linkki {
+    width: 150px; 
+    color: black; 
+    transition: 2s; 
+    font-size: 20px;
+} 
+.linkki:hover {
+    color: blue; 
+}
